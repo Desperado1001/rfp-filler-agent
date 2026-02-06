@@ -1,0 +1,6 @@
+[tools]
+python = "3.12"
+
+[env]
+PYTHONPATH = "{{config_root}}"
+NODE_ENV = "development"
